@@ -108,6 +108,7 @@ main {
     min-width: 320px;
     width: 100%;
     height: fit-content;
+    background-color: var(--off-white);
 }
 
 /* Exchange section */
@@ -118,7 +119,6 @@ main {
     justify-content: space-evenly;
     width: 100%;
     height: fit-content;
-    background-color: var(--off-white);
 }
 
 .main--exchange-container .bitcoinImg {
@@ -343,4 +343,17 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+/* Image section */
+.main--image-container {
+    max-width: 500px;
+    width: 100%;
+    height: fit-content;
+}
+
+.main--image-container img {
+    display: block;
+    max-width: 720px;
+    width: 100%;
 }
