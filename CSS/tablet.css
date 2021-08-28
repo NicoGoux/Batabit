@@ -1,0 +1,19 @@
+.main--img-product-container {
+    flex-wrap: nowrap;
+}
+
+.main--image-container {
+    width: 45%;
+    height: 580px;
+}
+
+.main--product-container {
+    height: 580px;
+}
+
+.main--plans-container .plans-cards-slider {
+    align-items: center;
+    justify-content: space-evenly;
+    height: 300px;
+    overflow-x: hidden;
+}
