@@ -427,6 +427,14 @@ main {
     padding-top: 32px;
 }
 
+.main--plans-container .plans-cards-slider .monthly-card {
+    margin-left: 30vw;
+}
+
+.main--plans-container .plans-cards-slider .biannual-card {
+    margin-right: 30vw;
+}
+
 .main--plans-container .plans-cards-slider .recommended-card .card-header {
     position: absolute;
     left: calc(50% - 50px);

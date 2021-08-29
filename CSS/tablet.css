@@ -17,3 +17,11 @@
     height: 300px;
     overflow-x: hidden;
 }
+
+.main--plans-container .plans-cards-slider .monthly-card {
+    margin-left: 8px;
+}
+
+.main--plans-container .plans-cards-slider .biannual-card {
+    margin-right: 8px;
+}
